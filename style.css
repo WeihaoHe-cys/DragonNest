@@ -1,0 +1,48 @@
+.logo span {
+  font-size:40px;
+}
+
+.button{
+  background-color: orange;
+  border-color: coral;
+}
+.signup {
+  margin: 0px 5px 0px 10px;
+}
+.separator {
+  margin-right: 10px
+}
+.eyeCash {
+  margin-right: 10px
+}
+.menu li {
+  color:white;
+  margin-left:130px
+}
+body{
+  background: url("https://wallpaperaccess.com/full/1349137.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.downloadBar {
+  display: block;
+  background-color:purple;
+  text-align: center;
+  font-size: 30px;
+  color:white;
+  margin: 10px 398px 10px 398px;
+  font-family: "Times New Roman";
+}
+.notice {
+  display:block;
+  background-color:white;
+  margin:0px 400px 0px 400px;
+  height:300px;
+}
+.format {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
